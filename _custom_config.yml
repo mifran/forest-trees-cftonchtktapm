@@ -1,0 +1,6 @@
+source: .
+markdown: kramdown
+layouts: ./d/_layouts
+posts: ./d/_posts
+repo: .
+subrepo: d

@@ -2,4 +2,5 @@ source: .
 markdown: kramdown
 layouts: ./d/_layouts
 posts: ./d/_posts
-
+repo: forest-trees-cftonchtktapm
+subrepo: d.forest-trees-cftonchtktapm
